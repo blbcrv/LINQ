@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0A6D91E0-23A4-4979-BE13-B790F2FA0F42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="carList-LinQ/Program.cs">
+    <Files>
+      <File FileName="carList-LinQ/Program.cs" Line="1" Column="1" />
+      <File FileName="carList-LinQ/Car.cs" />
+      <File FileName="carList-LinQ/Cars.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="carList-LinQ" expanded="True" selected="True">
+            <Node name="carList-LinQ" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.carList-LinQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
